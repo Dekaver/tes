@@ -1,1 +1,1 @@
-ini bukan text
+ini adalah text
